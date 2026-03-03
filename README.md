@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pulse PM
 
 A personal AI project manager that runs in your macOS terminal. Checks in with you throughout the day, tracks real work across projects, and helps you close the loop every morning and evening.
@@ -102,3 +103,6 @@ rm ~/Library/LaunchAgents/com.pulspm.agent.plist
 rm -rf ~/.pulse_pm
 # remove the alias from ~/.zshrc manually
 ```
+=======
+# pulse
+>>>>>>> 85e06b323df8a46e05a179e8807c04a6a64e407e
