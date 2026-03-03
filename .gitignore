@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Pulse PM runtime data (stored in ~/.pulse_pm/, not the repo)
+*.db
+*.log
+*.err
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# launchd installed copy (lives in ~/Library/LaunchAgents/, not here)
+# The template com.pulspm.agent.plist in this repo is committed intentionally
